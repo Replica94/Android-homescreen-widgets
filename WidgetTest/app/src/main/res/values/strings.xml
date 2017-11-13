@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WidgetTest</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title_activity_fibonacci">Fibonacci</string>
+    <string name="button_calc_text">DoIt!</string>
+    <string name="app_widget_done_text">Done</string>
+</resources>
